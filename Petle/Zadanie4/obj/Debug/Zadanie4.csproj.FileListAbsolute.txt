@@ -1,0 +1,6 @@
+C:\Users\Pc\documents\visual studio 2017\Projects\Petle\Zadanie4\bin\Debug\Zadanie4.exe.config
+C:\Users\Pc\documents\visual studio 2017\Projects\Petle\Zadanie4\bin\Debug\Zadanie4.exe
+C:\Users\Pc\documents\visual studio 2017\Projects\Petle\Zadanie4\bin\Debug\Zadanie4.pdb
+C:\Users\Pc\documents\visual studio 2017\Projects\Petle\Zadanie4\obj\Debug\Zadanie4.csprojResolveAssemblyReference.cache
+C:\Users\Pc\documents\visual studio 2017\Projects\Petle\Zadanie4\obj\Debug\Zadanie4.exe
+C:\Users\Pc\documents\visual studio 2017\Projects\Petle\Zadanie4\obj\Debug\Zadanie4.pdb

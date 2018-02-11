@@ -1,0 +1,5 @@
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\Petle\Zadanie10\bin\Debug\Zadanie10.exe.config
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\Petle\Zadanie10\bin\Debug\Zadanie10.exe
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\Petle\Zadanie10\bin\Debug\Zadanie10.pdb
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\Petle\Zadanie10\obj\Debug\Zadanie10.exe
+C:\Users\Pc\Documents\Visual Studio 2017\Projects\Petle\Zadanie10\obj\Debug\Zadanie10.pdb

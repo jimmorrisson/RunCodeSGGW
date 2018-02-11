@@ -1,0 +1,6 @@
+C:\Users\Pc\documents\visual studio 2017\Projects\Petle\Zadanie6\bin\Debug\Zadanie6.exe.config
+C:\Users\Pc\documents\visual studio 2017\Projects\Petle\Zadanie6\bin\Debug\Zadanie6.exe
+C:\Users\Pc\documents\visual studio 2017\Projects\Petle\Zadanie6\bin\Debug\Zadanie6.pdb
+C:\Users\Pc\documents\visual studio 2017\Projects\Petle\Zadanie6\obj\Debug\Zadanie6.csprojResolveAssemblyReference.cache
+C:\Users\Pc\documents\visual studio 2017\Projects\Petle\Zadanie6\obj\Debug\Zadanie6.exe
+C:\Users\Pc\documents\visual studio 2017\Projects\Petle\Zadanie6\obj\Debug\Zadanie6.pdb
